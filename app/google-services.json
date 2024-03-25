@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370036067098",
+    "project_id": "tasklistcompose",
+    "storage_bucket": "tasklistcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370036067098:android:2d00c44e09c18e03eb3aa3",
+        "android_client_info": {
+          "package_name": "com.example.tasklistcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLg7lT3-22hap09CVPcIJsjmO-JnGB8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
